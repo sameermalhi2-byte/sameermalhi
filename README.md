@@ -27,4 +27,4 @@ Remote USA
 
 ## How to apply
 Send your **CV or GitHub profile** to: **sameermalhi2@gmail.com**  
-Or open an issue/discussion in this repo.
+
